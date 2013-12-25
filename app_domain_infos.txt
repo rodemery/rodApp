@@ -1,0 +1,2 @@
+Creating thawing-retreat-1631... done, stack is cedar
+http://rodapp.herokuapp.com/ | git@heroku.com:rodapp.git
