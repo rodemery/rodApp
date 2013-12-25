@@ -23,7 +23,6 @@ production:
   host: ec2-54-204-16-70.compute-1.amazonaws.com
   database: deraqbk9ou9m22
   user: jsvfywcfcnabgb
-  port:  5432
   password: 9iPEXGGqjJS3diQMRqtaE_OBPK
   # pool: 5
   # timeout: 5000
